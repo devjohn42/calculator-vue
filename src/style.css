@@ -12,12 +12,13 @@
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  margin-bottom: 20px;
 }
 
 body {
   height: 100vh;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: #fff;
+  background: linear-gradient(to right, rgb(2, 170, 176), rgb(0, 205, 172));
 }
 
 #app {
